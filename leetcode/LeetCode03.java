@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-class Main {
+class LeetCode03 {
     public static void main(String[] args) {
         String s = "abcabcbb";
         int result = 0;
